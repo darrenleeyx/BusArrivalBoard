@@ -1,5 +1,7 @@
 # Bus Arrival Board
 
+![Image of the application](resources/app.png)
+
 This is a simple Tkinter-based application that displays bus arrival times for a specified bus stop ID. The application fetches data using [ArriveLah](https://github.com/cheeaun/arrivelah) and updates the display every 10 seconds. Users can enter a bus stop ID and refresh the data manually.
 
 ## Features
